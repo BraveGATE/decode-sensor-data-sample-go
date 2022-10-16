@@ -1,0 +1,24 @@
+{
+  "application": {
+    "application_id": "AP0123456789abcdefghijkABCDEFGHIJK",
+    "name": "Test Webhook"
+  },
+  "router": {
+    "router_id": "bb000001",
+    "imsi": "440000000000001",
+    "rssi": -50,
+    "battery": 75,
+    "fw_version": "0.0.1"
+  },
+  "device": {
+    "device_id": "1234567890123456",
+    "sensor_id": "00f1",
+    "sensor_name": "General Sensor",
+    "rssi": -50,
+    "data": {
+      "data": "CgAAACBBLAEAAAL/////hAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8BAAEBAAAAHQ=="
+    }
+  },
+  "uplink_id": "1111aaaa-4222-bbbb-3333-cccc4444dddd",
+  "date": "2021-10-02T13:50:00+09:00"
+}
