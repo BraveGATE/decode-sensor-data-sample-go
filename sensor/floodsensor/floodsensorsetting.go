@@ -2,11 +2,12 @@ package floodSensor
 
 import (
 	"bytes"
-	decoder "decode-sensor-data-sample-go/internal/decoder"
 	"encoding/base64"
 	"fmt"
 	"strconv"
 	"time"
+
+	decoder "github.com/BraveGATE/decode-sensor-data-sample-go/internal/decoder"
 )
 
 // ------------------------------------------------------------------------------

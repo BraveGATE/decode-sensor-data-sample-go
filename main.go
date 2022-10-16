@@ -1,12 +1,13 @@
 package main
 
 import (
-	FloodSensor "decode-sensor-data-sample-go/sensor/floodsensor"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
+
+	FloodSensor "github.com/BraveGATE/decode-sensor-data-sample-go/sensor/floodsensor"
 )
 
 func main() {
